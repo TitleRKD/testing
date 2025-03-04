@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/bgmenu">
+        <file>btnmenurezied.png</file>
+        <file>bgmenuedit.png</file>
+        <file>btnapesresized.png</file>
+        <file>btnchoresized.png</file>
+        <file>btnwindowresized.png</file>
+        <file>btnfresized.png</file>
+        <file>2btnapes.png</file>
+    </qresource>
+    <qresource prefix="/bgmain">
+        <file>bgmain.png</file>
+        <file>btnstart.png</file>
+        <file>bgdialog.png</file>
+    </qresource>
+    <qresource prefix="/bgdialog">
+        <file>bgdialog.png</file>
+        <file>Screenshot 2025-02-24 184437.png</file>
+        <file>Screenshot 2025-02-24 184451.png</file>
+        <file>editeddialog.png</file>
+    </qresource>
+    <qresource prefix="/bgflashc">
+        <file>bgflashin.png</file>
+        <file>btncon.png</file>
+        <file>btnsave.png</file>
+        <file>bgflashmini.png</file>
+        <file>btnnext.png</file>
+        <file>bgscore.png</file>
+        <file>btnmenu.png</file>
+        <file>btnnextresized.png</file>
+        <file>btnnextresized2.png</file>
+        <file>newbgflash.png</file>
+    </qresource>
+    <qresource prefix="/bgchoose">
+        <file>bgchoose.png</file>
+    </qresource>
+    <qresource prefix="/bgapestype">
+        <file>apes.png</file>
+    </qresource>
+</RCC>
