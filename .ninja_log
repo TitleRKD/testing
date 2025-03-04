@@ -1,0 +1,19 @@
+# ninja log v6
+51	3697	7627860559095715	untitled4_autogen/timestamp	ec1bc454bd46abd3
+51	3697	7627860559095715	untitled4_autogen/mocs_compilation.cpp	ec1bc454bd46abd3
+51	3697	7627860559095715	C:/Users/Admin/Downloads/trilingo/demo_game1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/untitled4_autogen/timestamp	ec1bc454bd46abd3
+51	3697	7627860559095715	C:/Users/Admin/Downloads/trilingo/demo_game1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/untitled4_autogen/mocs_compilation.cpp	ec1bc454bd46abd3
+3712	3941	7627860563300827	untitled4_autogen/EWIEGA46WW/qrc_pic.cpp	7f2dce69fdf1e409
+3712	3941	7627860563300827	C:/Users/Admin/Downloads/trilingo/demo_game1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/untitled4_autogen/EWIEGA46WW/qrc_pic.cpp	7f2dce69fdf1e409
+4168	5910	7627860565806763	CMakeFiles/untitled4.dir/untitled4_autogen/EWIEGA46WW/qrc_pic.cpp.obj	a93f41c3369b1d9b
+3962	9301	7627860563703769	CMakeFiles/untitled4.dir/main.cpp.obj	df45993a614a0f43
+4078	9689	7627860564894634	CMakeFiles/untitled4.dir/flashcardresult.cpp.obj	681c25fbcddaad12
+3942	9894	7627860563552195	CMakeFiles/untitled4.dir/untitled4_autogen/mocs_compilation.cpp.obj	21488567069a8e19
+3983	9922	7627860563958291	CMakeFiles/untitled4.dir/mainwindow.cpp.obj	3e9e8146e570c489
+4033	10306	7627860564456277	CMakeFiles/untitled4.dir/flashcardinput.cpp.obj	3ea65c6705d419cb
+4147	10406	7627860565596036	CMakeFiles/untitled4.dir/menu.cpp.obj	96c082db12afd6fa
+4122	10948	7627860565333678	CMakeFiles/untitled4.dir/dialog.cpp.obj	59f21c6b26ebc6ec
+4101	11038	7627860565137518	CMakeFiles/untitled4.dir/ApesTypegame.cpp.obj	a3ab410199e7d482
+4056	11282	7627860564682764	CMakeFiles/untitled4.dir/flashcardminigame.cpp.obj	15ddc2cb167df06e
+4009	11749	7627860564209686	CMakeFiles/untitled4.dir/chooes.cpp.obj	e56dc0efd02c80ac
+11749	12621	7627860641626497	untitled4.exe	3bef4c5c48529c9e

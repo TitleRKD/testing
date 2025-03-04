@@ -1,9 +1,0 @@
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/untitled4.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/rebuild_cache.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/list_install_components.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/install.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/install/local.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/install/strip.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/untitled4_autogen_timestamp_deps.dir
-C:/Users/Admin/Downloads/sourcecodetrilingo/demo_game1/b/CMakeFiles/untitled4_autogen.dir
